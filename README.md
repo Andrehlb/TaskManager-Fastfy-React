@@ -12,6 +12,7 @@ Este projeto é um aplicativo de gerenciamento de tarefas desenvolvido com React
   <li>Node.js</li>
   <li>TypeScript</li>
   <li>MongoDB</li>
+</ul>
 
 <h2> Como instalar e rodar o projeto </h2>
 
@@ -20,6 +21,7 @@ Este projeto é um aplicativo de gerenciamento de tarefas desenvolvido com React
 <ul>
   <li>Node.js</li>
   <li>npm ou yarn</li>
+</ul>
 
 
 <h2> Instalação </h2>
