@@ -1,4 +1,4 @@
-<h1> TaskManager-FastFy-React</h1>
+<h1> TaskManager-FastiFy-React</h1>
 
 <h2> Descrição do Projeto </h2>
 
